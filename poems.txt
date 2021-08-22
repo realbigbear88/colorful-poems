@@ -13,3 +13,4 @@ circle
 square
 rectangle
 triange
+octagon
