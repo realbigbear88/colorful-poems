@@ -1,17 +1,4 @@
-The colorful poems
-
-Indigo
-Purple
-Pink
-Red
-Blue
-Green
-Yellow
-Cyan
-
-Adds a new branch with shapes
-circle
-square
-rectangle
-triange
-octagon
+Ape
+Horse
+Elephant
+Giraffe
